@@ -1,0 +1,22 @@
+.logo {
+    width: 35%;
+    height: auto;
+}
+
+.jumbotron {
+    background-color: black;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.jumbotron-heading {
+    color: #ffffff;
+}
+
+.description {
+    color: #545445;
+}
+
+#imgJuego {
+    height: 273.33px;
+}
